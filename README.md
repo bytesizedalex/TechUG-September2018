@@ -5,7 +5,7 @@ The URLs and attached documents were presented at the Technology User Group (Tec
 
 This information is also available on my blog - https://www.bytesizedalex.com/techug-september-2018/
 
-It should be noted that the slides are used as talking points and do not encompass the full discussion nor the live demo material conducted on my lab environment.
+It should be noted that the slides are used as talking points and do not encompass the full discussion.
 
 While I am happy for people to reference the material I would be grateful if any copies reference this repository or my blog.
 
