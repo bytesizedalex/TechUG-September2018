@@ -1,5 +1,5 @@
 # TechUG-September2018
-TechnologyUG Presentation - March 2018
+TechnologyUG Presentation - September 2018
 
 The URLs and attached documents were presented at the Technology User Group (TechUG - https://www.technologyug.co.uk/) conference in Manchester on 13th September 2018. I have included them here for reference and ease of access.
 
